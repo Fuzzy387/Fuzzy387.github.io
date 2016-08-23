@@ -7,7 +7,7 @@
     <div class="logo">
         <img class="top-logo" src="http://straliasports.com/wp-content/uploads/2014/08/your-logo-ehre.png" alt="" style="width:200px;height:160px;" align= "middle">
     </div>
-         <br></br>
+         <br>
     <div>
     <ul class="nav">
         <li class=nav><a href="index.php">Home</a></li>

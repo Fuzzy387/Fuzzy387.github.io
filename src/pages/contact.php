@@ -16,16 +16,20 @@
 <?php
     template('header.php');
 ?>
-    
+    <div class="contact_form">
 <form>
+    <br>
+    <fieldset>
     First name:<br>
     <input type="text" name="firstname"><br>
-    Last name:<br>
-    <input type="text" name="lastname"><br>
     Email:<br>
-    <input type="email" name="email"<br>
+    <input type="email" name="email"><br>
     Message:<br>
-    <input type="text" 
+    <textarea name="comment" form="usrform"></textarea><br>
+    <input type="submit" value="Submit">
+    </fieldset>
 </form>
+</div>
+
 </body>
 </html>
